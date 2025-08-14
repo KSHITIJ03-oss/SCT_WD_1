@@ -19,4 +19,4 @@ Interactive fixed-position navigation bar with smooth scroll, hover animations, 
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/KSHITIJ03-oss/SCT_WD_1.git
