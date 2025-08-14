@@ -14,7 +14,7 @@ Interactive fixed-position navigation bar with smooth scroll, hover animations, 
 - **JavaScript** (Scroll Event Handling, Smooth Navigation)
 
 ## 📸 Demo Preview
-*(Add screenshots or GIF here)*
+https://github.com/user-attachments/assets/fb8bd45c-22db-4d3f-9cfa-a7a3fd7a5acb
 
 ## 🚀 How to Run Locally
 1. Clone the repository:
